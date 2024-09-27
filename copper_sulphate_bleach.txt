@@ -20,4 +20,4 @@ x = 232ml
 
 for 10% x = 65ml
 
-for 37% (battery acid) x = 17.6ml
+for 38% (battery acid) x = ~17ml
