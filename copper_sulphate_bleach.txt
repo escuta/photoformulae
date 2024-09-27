@@ -1,0 +1,23 @@
+See discussion here: https://www.photrio.com/forum/threads/copper-sulphate-bleach.147445/
+
+
+copper sulphate bleach for use in 2nd pass lith development 
+
+Copper (Cupric) Sulfate..................................50 g
+Concentrated Sulfuric Acid (EXTREME CARE!)..............6.5 ml *
+Sodium Chloride (Common Salt)........................... 50 g
+Water to make..........................................1000 ml
+
+* If using 2.8% sulfuric acide solution
+
+6.5  = 1
+--      --
+	1
+	--
+x      0.028
+
+x = 232ml
+
+for 10% x = 65ml
+
+for 37% (battery acid) x = 17.6ml
