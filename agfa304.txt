@@ -4,10 +4,16 @@ From The Darkroom Cookbook
 Agfa 304
 
 
-Water at 52°C			750ml
-Sodium thiosulphate		200g
-Ammonium chloride		50g
-Potassium metabisulphite	20g
+Water at 52°C						750ml
+Sodium thiosulphate (tiossulfato de sódio)		200g
+Ammonium chloride (Cloreto de amónio)			50g (234ml of 4M solution)*
+Potassium metabisulphite (Metabissulfito De Potassio)	20g
 Water to make 1 litre		<1000ml
 
 Use undiluted. Fix paper for 3-5 minutes. Fix film for three times clearing time.
+
+* 4M 1000ml solução de cloreto de amônio está disponível
+Molecular weight of Ammonium chloride (NH4Cl) is 53.491 g/mol
+So, a 1M solution has 53.5g of NH4Cl in 1000ml of water.
+1000ml of a 4M solution has 214g of HH4Cl
+Therefore: We need 234ml of 4M NH4Cl solution to provide 50g
