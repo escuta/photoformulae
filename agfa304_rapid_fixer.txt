@@ -6,7 +6,7 @@ Agfa 304
 
 Water at 52°C						750ml (500ml)
 Sodium thiosulphate (tiossulfato de sódio)		200g
-Ammonium chloride (Cloreto de amónio)			50g (234ml of 4M solution)*
+Ammonium chloride (Cloreto de amônio)			50g (234ml of 4M solution)*
 Potassium metabisulphite (Metabissulfito De Potassio)	20g
 Water to make 1 litre		<1000ml
 
