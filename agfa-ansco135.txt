@@ -1,0 +1,24 @@
+Agfa/Ansco 135
+
+https://www.digitaltruth.com/data/formula.php?FormulaID=4
+
+
+Warm tone print developer
+
+Water 125F/52C								750ml
+Metol									1.6g
+Sodium Sulfite - anhydrous (Sulfito de Sódio anidro)			24g
+Hydroquinone (Hidroquinona)						6.6g
+Sodium Carbonate - monohydrate* (Carbonato de sódio monohidratado)	24g
+Potassium Bromide (Brometo De Potassio)	     	   			2.8g
+Cold water to make	      						<1000ml
+Mixing Instructions: Add chemicals in specified sequence.
+Dilution: 1+1
+Usage: Starting point time: 2 mins.
+
+Notes 
+*multiply amount by 0.833 if using Sodium Carbonate in anhydrous form.
+
+Double the amount of Potassium Bromide to increase warmth. Increase dilution for more soft-working results.
+
+If warming a 1 litre working solution, add 1.4g of Potassium Bromide.
