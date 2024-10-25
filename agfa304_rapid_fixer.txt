@@ -7,7 +7,7 @@ Agfa 304
 Water at 52°C						750ml (500ml)
 Sodium thiosulphate (tiossulfato de sódio)		200g
 Ammonium chloride (Cloreto de amônio)			50g (234ml of 4M solution)*
-Potassium metabisulphite (Metabissulfito De Potassio)	20g
+Potassium metabisulphite (Metabissulfito De Potássio)	20g
 Water to make 1 litre		<1000ml
 
 Use undiluted. Fix paper for 3-5 minutes. Fix film for three times clearing time.
