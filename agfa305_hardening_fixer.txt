@@ -1,10 +1,10 @@
 305 Hardening Fixer
 
-Water						_______		800ml (500ml)
-Sodium Thiosulphate (tiossulfato de sódio)	_______		200g
-Sodium sulphite anhyd (Sulfito de sódio anídro)	_______		20g
-Acetic acid (glacial) (Ácido acetico glacial)  	_______		15ml (250ml of 6% sol) *
-Potassium Alum (dodecahydrate)(alúmen de potássio dodecaidrato) 10g
+Water									_______		800ml (500ml)
+Sodium Thiosulphate (tiossulfato de sódio)				_______		200g
+Sodium sulphite anhyd (Sulfito de sódio anídro)				_______		20g
+Acetic acid (glacial) (Ácido acetico glacial)  				_______		15ml (250ml of 6% sol) *
+Potassium Alum (dodecahydrate)(alúmen de potássio dodecaidrato KAl(SO4)2·12(H2O)) 	10g
 Water enough to make up to 1 Litre
 
 
