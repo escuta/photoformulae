@@ -5,10 +5,23 @@ https://www.kabbottphoto.com/developing-black-and-white-film-with-d-23/
 
 
 
-D-23 Formula:
+D-23 Formula (1 litre):
 
     700ml Water at 52°C
     Pinch of the Sodium Sulfite below 
     Metol – 7.5g
     Sodium Sulfite – 100g
     Water to Make 1L
+
+
+D-23 Formula (750ml - used after discarding 750ml of old stock):
+
+    525ml Water at 52°C
+    Pinch of the Sodium Sulfite below 
+    Metol – 5.6g
+    Sodium Sulfite – 75g
+    Water to Make 750ml
+
+
+
+
